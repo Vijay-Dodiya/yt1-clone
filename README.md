@@ -47,6 +47,14 @@ See the live demo: [YouTube Clone](https://65719e9f3812466e912f9c5f--chimerical-
 - [React Router DOM](https://reactrouter.com/)
 
 ... and more (see [package.json](./package.json) for the complete list)
+## Advanced Topics
+Code Splitting: Code Splitting Documentation
+Analyzing Bundle Size: Bundle Size Documentation
+Making a Progressive Web App: PWA Documentation
+Advanced Configuration: Advanced Configuration Documentation
+
+## Deployment
+For deployment instructions, refer to Deployment Documentation.
 
 ## Getting Started
 
@@ -70,5 +78,3 @@ npm build: Builds the app for production to the dist folder.
 npm lint: Lints the project using ESLint.
 npm preview: Preview the production build.
 
-Contributing
-If you'd like to contribute, please fork the repository and create a new branch. Pull requests are welcome!
