@@ -54,7 +54,7 @@ See the live demo: [YouTube Clone](https://65719e9f3812466e912f9c5f--chimerical-
 
 ```bash
 # Clone the repository
-git clone [Your Git Repository URL]
+git clone https://github.com/dodiya0107/yt1-clone.git
 cd yt1-clone
 
 # Install dependencies
